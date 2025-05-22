@@ -3,9 +3,6 @@
 
 Minimalist Go library for simulating mouse clicks, movements, and basic automation based on Robotgo
 
-## About
-
-A lightweight Go library for mouse automation and click simulation. Control cursor movement and perform clicks.
 ## Installation
 
 ```bash
