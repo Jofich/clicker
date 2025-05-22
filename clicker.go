@@ -9,6 +9,7 @@ func NewClicker() Clicker {
 	return &Mouse{}
 }
 
+// implements Mouse methods
 type Clicker interface {
 	SetPosition(x, y int)
 	Move(x, y int)
